@@ -11,6 +11,5 @@
 </p>
 
 ---
-## Giving out 🍪, To People that follow me!
 
 ---
