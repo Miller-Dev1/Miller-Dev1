@@ -2,7 +2,6 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/SHz9z3G4e2) 
 ![](https://komarev.com/ghpvc/?username=MegatonDev&label=Views&color=lightgrey&style=flat)
 
-Future: Software Engineer.
 ---
 <p align="center">
 <a href="https://github.com/Miller-Dev1">
@@ -12,6 +11,5 @@ Future: Software Engineer.
 </p>
 
 ---
-## Giving out 🍪, To People that follow me!
 
 ---
