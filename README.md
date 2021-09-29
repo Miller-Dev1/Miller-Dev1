@@ -1,7 +1,8 @@
-# Hey I'm Miller 
-[![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/miller) 
-![](https://komarev.com/ghpvc/?username=Miller-Dev1&label=Views&color=lightgrey&style=flat)
+# Hey I'm Miller
+[![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/SHz9z3G4e2) 
+![](https://komarev.com/ghpvc/?username=MegatonDev&label=Views&color=lightgrey&style=flat)
 
+Future: Software Engineer.
 ---
 <p align="center">
 <a href="https://github.com/Miller-Dev1">
@@ -11,5 +12,6 @@
 </p>
 
 ---
+## Giving out 🍪, To People that follow me!
 
 ---
