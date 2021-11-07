@@ -1,5 +1,5 @@
 # Hey I'm Miller
-[![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/SHz9z3G4e2) 
+[![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/) 
 ![](https://komarev.com/ghpvc/?username=MegatonDev&label=Views&color=lightgrey&style=flat)
 
 ---
