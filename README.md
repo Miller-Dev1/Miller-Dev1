@@ -9,8 +9,7 @@
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/376133235203244054.png"/>
 </p>
-<p align="center">
-Currently learning JavaScript
+
 <p align="center">
     <a href="https://discord.gg/outlawdevelopment">Outlaw Development</a>
     <a href="https://discord.gg/lawrld">LA World RP</a>
