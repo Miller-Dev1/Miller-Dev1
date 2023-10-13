@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=Miller-Dev1&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/376133235203244054.png"/>
+  <img src="https://discord.c99.nl/widget/theme-4/1161932298963386459.png"/>
 </p>
 
 <p align="center">
