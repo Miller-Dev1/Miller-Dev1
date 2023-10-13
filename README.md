@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://cdn.discordapp.com/attachments/911651596448981022/1162269625740951632/Png_M_PFP.png">
+<img src="https://cdn.discordapp.com/attachments/911651596448981022/1162269625740951632/Png_M_PFP.png?ex=653b52f0&is=6528ddf0&hm=d80ee01121701a34bc4cdd54949b08e0fc77d719650758008d6aaa2010430d5e">
 </p>
 <p align="center">
     MillerDev
