@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://cdn.discordapp.com/attachments/911651596448981022/1162269625740951632/Png_M_PFP.png?ex=653b52f0&is=6528ddf0&hm=d80ee01121701a34bc4cdd54949b08e0fc77d719650758008d6aaa2010430d5e">
+<img src="https://cdn.discordapp.com/attachments/892998910925238332/1178848307552980992/Png_M_PFP_-_Circle.png?ex=6577a30a&is=65652e0a&hm=c83b33eb50700146e7c0f93ab676e2567980a95f7f7897345101ea0a13c68e25&">
 </p>
 <p align="center">
     MillerDev
@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-    <a href="https://discord.gg/outlawdevelopment">Outlaw Development</a>
-    <a href="https://discord.gg/lawrld">LA World RP</a>
+    <!-- <a href="https://discord.gg/outlawdevelopment">Outlaw Development</a>
+    <a href="https://discord.gg/lawrld">LA World RP</a> -->
